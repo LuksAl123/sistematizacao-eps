@@ -24,3 +24,22 @@ Projeto desenvolvido para a disciplina de Engenharia de Produto de Software (EPS
 
    ```bash
    git clone https://github.com/LuksAl123/sistematizacao-eps.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd sistematizacao-eps
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   npm run dev
+   ```
