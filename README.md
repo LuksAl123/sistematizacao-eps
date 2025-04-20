@@ -1,6 +1,6 @@
 # Sistematização EPS
 
-Projeto desenvolvido para a disciplina de Engenharia de Produto de Software (EPS) da Universidade de Brasília (UnB). Este repositório contém a sistematização de práticas e aprendizados adquiridos ao longo do curso.
+Projeto desenvolvido para a disciplina de Engenharia de Produto de Software (EPS). Este repositório contém a sistematização de práticas e aprendizados adquiridos ao longo do curso.
 
 ## 📁 Estrutura do Projeto
 
